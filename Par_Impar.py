@@ -1,6 +1,10 @@
 """Programa para identificar si
 un numero dado es par o impar"""
 
+print("--------------------------------------")
+print("------Numero Par o Impar-------------")
+print("--------------------------------------")
+
 #input
 X = int(input("digite el valor de X: "))
 
